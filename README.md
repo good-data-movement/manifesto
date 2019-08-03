@@ -4,16 +4,15 @@ We are working towards a future where people’s data-rights are respected, and 
 
 ## Values
 
-- Consent 
-- Respect individual ownership rights
 - Privacy
+- Respect
 - Fairness
 - Collaboration
 
 ## Why Good Data Movement?
 <!--Why is this movement necessary:-->
 
-- Because even after continued illegal exploitation nothing has changed.
+- Because even after continued exploitation nothing has changed.
 - Because the problem is too large for any individual to make a difference.
 - Because a movement can consolidate existing information and efforts.
 - Because change can only come from working together. 
