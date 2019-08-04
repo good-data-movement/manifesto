@@ -2,13 +2,6 @@
 
 We are working towards a future where people’s data-rights are respected, and data is used for good.
 
-## Values
-
-- Privacy
-- Respect
-- Fairness
-- Collaboration
-
 ## Why Good Data Movement?
 <!--Why is this movement necessary:-->
 
@@ -54,7 +47,17 @@ We are working towards a future where people’s data-rights are respected, and 
 - Passionate individuals to Tweet & Share the message.
 - Open-source developers to contribute resources.
 
-# Why
+## Values
+
+Everything we do is and will be driven by these core values.
+
+- Respect
+- Honesty
+- Fairness
+- Transparency
+- Working Together
+
+## Why
 
 - Because it's important.
 
