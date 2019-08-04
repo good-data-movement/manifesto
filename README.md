@@ -26,7 +26,7 @@ We are working towards a future where people’s data-rights are respected, and 
 - Ensure individuals data is kept private.
 - Provide clear consent options with opt-out as default.
 - Question the source from which they obtain data.
-- Recognise the benefits of treating customers well [1].
+- Recognise the benefits of treating customers well<sup><a href='#1'>1</a></sup>.
 
 ## How
 
@@ -61,4 +61,4 @@ Everything we do is and will be driven by these core values.
 
 - Because it's important.
 
-[1]: People would be much more comfortable sharing data with ethical companies.
+<p id='1'> [1]: People would be much more comfortable sharing data with ethical companies. </p>
