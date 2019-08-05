@@ -1,9 +1,15 @@
 # The Good Data Movement manifesto.
 
-We are working towards a future where people’s data-rights are respected, and data is used for good.
+We are working towards a future where people’s data consent choices are informed & respected, data is used for the benefit of everyone, and data owners receive a share of the value their data produces.
+
+## What is the Good Data Movement?
+
+The Good Data Movement is a social movement, an Open-source community-led organisation, and a campaign group for fair, ethical and non-exploitative data use.
+
+We aim to consolidate and act as a central reference point for the many people feeling concerned with how litte control they have over how their data is used, and to unite the efforts of individuals and organisations working to advance the potential social benefits of **good** data use. 
 
 ## Why Good Data Movement?
-<!--Why is this movement necessary:-->
+<!--Why is this movement necessary?-->
 
 - Because even after continued exploitation nothing has changed.
 - Because the problem is too large for any individual to make a difference.
@@ -21,8 +27,7 @@ We are working towards a future where people’s data-rights are respected, and 
 
 ### For companies to:
 
-<!--- Subscribe to the Good Data Alliance guidelines.-->
-
+- Subscribe to the Good Data Alliance guidelines.
 - Ensure individuals data is kept private.
 - Provide clear consent options with opt-out as default.
 - Question the source from which they obtain data.
@@ -30,7 +35,7 @@ We are working towards a future where people’s data-rights are respected, and 
 
 ## How
 
-<!--We're going to make this happen by:-->
+<!--We're going to make this happen?-->
 
 - Increase public awareness of good data ethics.
 - Campaign to change accepted industry standards.
@@ -38,7 +43,7 @@ We are working towards a future where people’s data-rights are respected, and 
 - Unite common interest groups already working on this issue.
 - Engage key stakeholders in the community.
 - Empower people to make a difference.
-- Write the _Good Data Alliance Guidelines_.
+- Write the [_Good Data Alliance Guidelines_](https://github.com/good-data-movement/alliance).
 
 ## How you can help?
 
