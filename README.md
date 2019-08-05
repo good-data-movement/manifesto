@@ -52,6 +52,8 @@ We aim to consolidate and act as a central reference point for the many people f
 - Passionate individuals to Tweet & Share the message.
 - Open-source developers to contribute resources.
 
+See [CONTRIBUTING](CONTRIBUTING.md) for more information.
+
 ## Values
 
 Everything we do is and will be driven by these core values.
