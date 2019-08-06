@@ -69,3 +69,16 @@ Everything we do is and will be driven by these core values.
 - Because it's important.
 
 <p id='1'> <a href='#a1'>[1]</a>: People are much more comfortable sharing data with ethical companies.</p>
+
+## Ethi
+
+The Good Data Movement is set up & currently directed by George Punter, who is also a Co-Founder of the Company Ethi Technologies Limited. We are actively looking for dedicated & passionate people to join the board of Directors of the Good Data Movement, to help ensure it is kept free of any conflict of interest with Ethi Technologies Limited.
+
+Ethi's aims are a for-profit attempt to raise awareness & give people more control over their personal data.
+
+The Ethi Control Panel will:
+- Provide visualisation tools for users to _see_ what companies know about them.
+- Facilitate sending automated requests-for-data and following up data deletion requests to give people _control_.
+- Allowing users to share their data anonymously with trusted 3rd parties with **fully transparent** _opt-in_ consent controls, finally giving users access to the monetary _value_ that their data holds.
+
+Our goal is that by providing these tools, we will wake up people as to how their personal data is being exploited, give them back control, and share with them the value of their data - providing a better data-future & improving the data economy.
