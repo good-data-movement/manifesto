@@ -27,7 +27,7 @@ We aim to consolidate and act as a central reference point for the many people f
 
 ### For companies to:
 
-- Join the _Good Data_ [_Alliance ](https://github.com/good-data-movement/alliance).
+- Join the _Good Data_ [*Alliance*](https://github.com/good-data-movement/alliance).
 - Ensure individuals data is kept private.
 - Provide clear consent options with opt-out as default.
 - Question the source from which they obtain data.
