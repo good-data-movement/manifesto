@@ -1,4 +1,5 @@
 # The Good Data Movement is a campaign group for fair, ethical and non-exploitative data use.
+We are working towards a future where people’s data consent choices are informed & respected, data is used for the benefit of everyone, and data owners receive a share of the value their data produces.
 
 ### We want to help you get back control over your data.
 We've started this organisation to act as a reference point for the many people feeling concerned with the lack of control they have over how their data is gathered and used, and to unite the efforts of individuals and organisations working to advance the social benefits of good data use. 
