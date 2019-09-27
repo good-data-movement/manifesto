@@ -8,7 +8,7 @@ We've started this organisation to act as a reference point for the many people 
 ### We want to help you understand why your data is valuable to companies.
 Then you can decide for yourself if you're happy for them to use it for free or for a price. We believe that when the user is the product, not the customer, they should get to ask for a share of the profit.
 
-### We want to help Organisations keep their users data safe.
+### We want to help Organisations keep their users' data safe.
 We recognise there's a heavy burden on organisations to comply with data protection regulations. We want to help organisations continue creating innovate products and research with a privacy-first mindset, and show you how being compliant can _benefit_ your business.
 <hr>
 
