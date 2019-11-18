@@ -18,7 +18,7 @@ We recognise there's a heavy burden on organisations to comply with data protect
 - Collaboration
 
 # How you can help
-We're always looking for organisations and individuals who are eager to learn, happy to share the message, already working on these problems, or willing to contribute. You can reach out directly to Mariana ([@NenInUilys](https://twitter.com/neninuilys)) or George ([@psgeroge])(https://twitter.com/psgeroge) , [george@ethi.me](george@ethi.me)). We’d love to hear that you’re interested in the project, even if that’s all you have to say for now!
+We're always looking for organisations and individuals who are eager to learn, happy to share the message, already working on these problems, or willing to contribute. You can reach out directly to Mariana ([@NenInUilys](https://twitter.com/neninuilys)) or George ([@psgeroge](https://twitter.com/psgeroge) , [george@ethi.me](george@ethi.me)). We’d love to hear that you’re interested in the project, even if that’s all you have to say for now!
 
 You can also check our roadmap to see what we’re currently up to. If you want to help out, you can:
 - Share! Use #GoodDataMovement when you share anything related to the topic
